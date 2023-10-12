@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    margin: 10%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lesson{
+    text-align: center;
+    background-color:rgb(80, 80, 239);
+    color: white;
+    opacity: 80%;
+    padding: 1%;
+}
+#btnDiv{
+     text-align: center;
+}
+#btnLike{
+    background-color: deepskyblue;
+    color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left:30%;
+    margin-right:30%;
+    font-size: 30px;
+
+
+
+}
